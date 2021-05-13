@@ -1,0 +1,471 @@
+
+/* mobile viewport */
+@media (max-width: 600px) { 
+.navbar{
+    position: fixed !important;
+    width: 100%;
+}
+body{
+    background-color: #000 !important;
+}
+#nav{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1.0rem;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+#icons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: #fff;
+}
+#ficons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: rgb(0, 0, 0);
+}
+#screen1{
+    padding-top: 13.0rem;
+    height: 100vh;
+    background-image: url(../img/contact.jpeg);
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    font-size: 30px !important;
+    text-align: center;
+    background-color: #515751;
+    padding: 12px;
+}
+.col-5{
+    background-color: #515751 !important;
+    text-align: center;
+    width: 6.0rem;
+    color: #fff;
+    margin-top: 3.0rem;
+    padding: 10px;
+    padding-top: 22px;
+    padding-left: -4px;
+}
+
+h3{
+    font-size: 19px !important;
+}
+#navbarSupportedContent{
+    margin-left: -45px;
+}
+p{
+    font-size: 10px !important;
+}
+#footer{
+    height: 15.0rem;
+    margin-top: -2.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+    display: none;
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+    color: rgb(0, 0, 0);
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+    margin-left: 8.0rem;
+}
+h6{
+    margin-left: -7px;
+}}
+
+/* tablet viewport */
+@media (min-width: 768px) { 
+    .navbar{
+    position: fixed !important;
+    width: 100%;
+}
+body{
+    background-color: #000 !important;
+}
+#nav{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1.0rem;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+#navbarSupportedContent{
+    margin-left: 133px !important;
+}
+#icons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: #fff;
+}
+#ficons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: rgb(0, 0, 0);
+}
+#screen1{
+    padding-top: 13.0rem;
+    height: 100vh;
+    background-image: url(../img/contact.jpeg);
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    font-size: 74px !important;
+    text-align: center;
+    background-color: #515751;
+    padding: 12px;
+}
+.col-5{
+    background-color: #515751 !important;
+    text-align: center;
+    color: #fff;
+    margin-top: 3.0rem;
+    padding: 12px;
+    padding-top: 22px;
+}
+
+h3{
+    font-size: 20px !important;
+}
+#footer{
+    height: 15.0rem;
+    margin-top: -2.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+    color: rgb(0, 0, 0);
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+    margin-left: 8.0rem;
+}
+h6{
+    margin-left: -7px;
+} }
+
+/* desktop viewport */
+@media (min-width: 992px) { 
+.navbar{
+    position: fixed !important;
+    width: 100%;
+}
+body{
+    background-color: #000 !important;
+}
+#nav{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1.0rem;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+#icons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: #fff;
+}
+#ficons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: rgb(0, 0, 0);
+}
+#screen1{
+    padding-top: 13.0rem;
+    height: 100vh;
+    background-image: url(../img/contact.jpeg);
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    font-size: 74px !important;
+    text-align: center;
+    background-color: #515751;
+    padding: 12px;
+}
+.col-5{
+    background-color: #515751 !important;
+    text-align: center;
+    color: #fff;
+    margin-top: 3.0rem;
+    padding: 12px;
+    padding-top: 22px;
+}
+
+h3{
+    font-size: 20px !important;
+}
+#footer{
+    height: 15.0rem;
+    margin-top: -2.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+    color: rgb(0, 0, 0);
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+    margin-left: 8.0rem;
+}
+h6{
+    margin-left: -7px;
+} }
+
+/* xl desktop */
+@media (min-width: 1200px) {
+.navbar{
+    position: fixed !important;
+    width: 100%;
+}
+body{
+    background-color: #000 !important;
+}
+#nav{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1.0rem;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+#icons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: #fff;
+}
+#ficons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: rgb(0, 0, 0);
+}
+#screen1{
+    padding-top: 13.0rem;
+    height: 100vh;
+    background-image: url(../img/contact.jpeg);
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    font-size: 74px !important;
+    text-align: center;
+    background-color: #515751;
+    padding: 12px;
+}
+.col-5{
+    background-color: #515751 !important;
+    text-align: center;
+    color: #fff;
+    margin-top: 3.0rem;
+    padding: 12px;
+    padding-top: 22px;
+}
+
+h3{
+    font-size: 20px !important;
+}
+#footer{
+    height: 15.0rem;
+    margin-top: -2.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+    color: rgb(0, 0, 0);
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+    margin-left: 8.0rem;
+}
+h6{
+    margin-left: -7px;
+} }
+
+/* XXl desktop */
+@media (min-width: 1400px) {
+.navbar{
+    position: fixed !important;
+    width: 100%;
+}
+body{
+    background-color: #000 !important;
+}
+#nav{
+    background-color: transparent !important;
+    color: #fff !important;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1.0rem;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+#icons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: #fff;
+}
+#ficons{
+    margin-right: 30px !important;
+    margin-top: 1.3rem;
+    color: rgb(0, 0, 0);
+}
+#screen1{
+    padding-top: 13.0rem;
+    height: 100vh;
+    background-image: url(../img/contact.jpeg);
+    background-size: cover;
+}
+
+h1{
+    color: #fff;
+    font-size: 74px !important;
+    text-align: center;
+    background-color: #515751;
+    padding: 12px;
+}
+.col-5{
+    background-color: #515751 !important;
+    text-align: center;
+    color: #fff;
+    margin-top: 3.0rem;
+    padding: 12px;
+    padding-top: 22px;
+}
+
+h3{
+    font-size: 20px !important;
+}
+#footer{
+    height: 15.0rem;
+    margin-top: -2.0rem;
+    padding-top: 4.0rem;
+    padding-left: 4.0rem;
+    background-color: rgb(238, 237, 235);
+}
+
+#footer h4{
+    font-size: 26px;
+}
+
+#footer p{
+    font-size: 16px !important;
+    color: rgb(0, 0, 0);
+}
+#socialfooter{
+    padding: 20px;
+}
+#footer .nav-link{
+    color:  #000 !important;
+    margin-left: 8.0rem;
+}
+h6{
+    margin-left: -7px;
+} }
